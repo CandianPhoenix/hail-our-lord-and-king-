@@ -1,0 +1,34 @@
+
+state={
+	id=1085
+	name="STATE_1085"
+	manpower = 423316
+	
+	state_category = rural
+	
+	resources={
+		oil=8 # was: 20 #2025-12-12: was: 14
+		aluminium=30 # was: 52
+		coal = 5 # initial distribution = with infra 8.4 / 1280 total
+	}
+
+
+	history={
+		owner = GWD
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = GWD
+		victory_points = {
+			10645 1
+		}
+	}
+
+	provinces={
+		10914 1972 12552 10645
+	}
+	
+
+	local_supplies=0.0 
+}

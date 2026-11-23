@@ -1,0 +1,15 @@
+state={
+	id=855
+	name="STATE_855"
+	history = {
+		owner = OAF
+		add_core_of = OAF
+	}
+	provinces={
+		2027 5027 7970 12455 12101 1033 2095 8092 
+	}
+	manpower=500000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
