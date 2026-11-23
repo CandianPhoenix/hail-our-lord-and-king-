@@ -1,0 +1,49 @@
+state={
+	id=386
+	name="STATE_386"
+	resources={
+		steel=12 # was: 20.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = GWD
+		buildings = {
+			infrastructure = 4 #was: 7
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+			6732 = {
+				naval_base = 8
+
+			}
+			9832 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = GWD
+		victory_points = {
+			6732 20 
+		}
+		victory_points = {
+			12459 1 
+		}
+		victory_points = {
+			9832 1 
+		}
+
+	}
+
+	provinces={
+                   1320 1690 4296 4398 4747 7255 7315 7386 7414 7442 10155 10157 10198 10242 10271 10327 10687 10690 10693 12155 12214 12673 
+	}
+	manpower=8404713
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

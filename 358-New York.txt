@@ -1,0 +1,31 @@
+state={
+	id=358
+	name="STATE_358"
+	resources={
+		steel=13 # was: 24.000
+	}
+	
+	state_category = city
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4 #was: 8
+			
+              
+			}
+		}
+		add_core_of = USA
+		victory_points = {
+			3878 30.0 
+		
+	}
+
+	provinces={
+		 3878 859 
+	}
+	manpower=1258806
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}
