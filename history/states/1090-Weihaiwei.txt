@@ -1,0 +1,37 @@
+state={
+	id=1090
+	name="STATE_1090"
+	provinces={
+		4205 
+	}
+	manpower=125504
+	buildings_max_level_factor=1
+	local_supplies=1
+
+	history = {
+
+		owner = ENG
+		add_core_of = MEN
+		add_claim_by = ENG
+
+
+
+		victory_points = {
+			4205 1 # Weihaiwei
+		}
+
+		buildings = {
+			infrastructure = 2
+
+
+			1104 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+
+		}
+
+		
+	}
+}

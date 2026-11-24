@@ -1,0 +1,27 @@
+﻿capital = 608 # Beijing
+
+oob = "MEN_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+	tech_support = 1
+	gw_artillery = 1
+}
+
+recruit_character = MEN_xuantong_emperor
+
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 24
+	neutrality = 37
+	democratic = 25
+	communism = 14
+}
