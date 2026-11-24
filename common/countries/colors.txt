@@ -271,8 +271,8 @@ MON = {
 	color_ui = rgb { 209 247 133 }
 }
 MEN = {
-	color = rgb { 185  255  152 }
-	color_ui = rgb { 165  230  132 }
+	color = rgb { 252  229  153 }
+	color_ui = rgb { 252  229  153 }
 }
 TAN = {
 	color = rgb { 152 130 191 }
