@@ -11,6 +11,7 @@ set_technology = {
 
 recruit_character = MEN_xuantong_emperor
 
+puppet = KUM
 
 
 set_politics = {
