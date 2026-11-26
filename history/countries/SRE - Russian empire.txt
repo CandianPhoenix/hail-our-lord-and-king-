@@ -60,6 +60,7 @@ set_grand_doctrine = new_strategic_destruction
 	}
 }
 
+recruit_character = SRE_nicholas_ii
 
 set_politics = {
 	ruling_party = neutrality
@@ -75,14 +76,6 @@ set_popularities = {
 	neutrality = 100
 }
 
-create_country_leader = {
-	name = "Tsar Nicholas"
-	desc = "The Russian Tsar"
-	picture = GFX_portrait_usa_herbert_kitchener
-	ideology = Oligarchism
-	traits = {
-		#
-	}
-}
+
 
 

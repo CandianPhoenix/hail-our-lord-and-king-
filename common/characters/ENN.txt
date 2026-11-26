@@ -1,0 +1,21 @@
+characters = {
+    ENN_archibald_campbell = {
+        name = ENN_archibald_campbell
+
+        portraits = {
+            civilian = {
+                large = GFX_portrait_ENN_archibald_campbell
+            }
+        }
+
+        country_leader = {
+            ideology = despotism
+
+            traits = {
+
+            }
+
+            expire = "1965.1.1"
+        }
+    }
+}
